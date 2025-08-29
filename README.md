@@ -1,4 +1,5 @@
 SMS Spam Detector
+
 What is the Project?
 The SMS Spam Detector is a machine learning tool that classifies SMS messages as spam (unwanted) or ham (legitimate). Built with Python, it uses Logistic Regression and TF-IDF vectorization to analyze text and detect spam with high accuracy.
 Project Overview
